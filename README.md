@@ -1,8 +1,9 @@
 <p align="center">
-// # Hi there 👋, I'm Jayant
+# Hi there 👋, I'm Jayant
+### Data Enthusiast
 </p>
 
-## Data Enthusiast
+
 
 <!--
 
