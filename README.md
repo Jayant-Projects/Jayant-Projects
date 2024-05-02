@@ -1,7 +1,7 @@
-<p align="center">
+
 # Hi there 👋, I'm Jayant
 ### Data Enthusiast
-</p>
+
 
 
 
