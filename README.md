@@ -1,4 +1,6 @@
-                                                                # Hi there 👋, I'm Jayant
+<p align="center">
+// # Hi there 👋, I'm Jayant
+</p>
 
 ## Data Enthusiast
 
